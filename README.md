@@ -18,12 +18,12 @@ Manage script /../REPONAME/backend/manage.py
 then Add Pipenv Enviroment
 
 3) Go to /../REPONAME/backend/frontend:
-4) 
+
 Write in the console: npm install
                       npm run build
 
 4) Go to /../REPONAME/:
-5) 
+
 Write in the console: sudo docker-compose build
 
 after building:
