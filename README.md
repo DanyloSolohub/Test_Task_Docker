@@ -16,7 +16,7 @@
   
   Manage script /../REPONAME/backend/manage.py
 
-  then Add Pipenv Enviroment
+  then Add Pipenv Enviroment (Important)
 
 3) Go to /../REPONAME/backend/frontend:
 
