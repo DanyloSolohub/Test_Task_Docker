@@ -1,6 +1,6 @@
 # Test_Task_Docker
 
-1)To start the project you have to clone this repo
+1)To start the project you have to clone this repo: 
 git clone https://github.com/DanyloSolohub/Test_Task_Docker REPONAME
 
 2) Open in PyCharm
