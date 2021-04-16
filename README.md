@@ -1,10 +1,12 @@
 # Test_Task_Docker
 
-1)To start the project you have to clone this repo: 
+1) To start the project you have to clone this repo: 
+
 git clone https://github.com/DanyloSolohub/Test_Task_Docker REPONAME
 
 2) Open in PyCharm
 Go to Settings -> Project Structure: and remove Content Root
+
 Add new Content Root from  /../REPONAME/backend
 
 Then go to Languages & Frameworks -> Django: 
@@ -16,11 +18,14 @@ Manage script /../REPONAME/backend/manage.py
 then Add Pipenv Enviroment
 
 3) Go to /../REPONAME/backend/frontend:
+4) 
 Write in the console: npm install
                       npm run build
 
 4) Go to /../REPONAME/:
+5) 
 Write in the console: sudo docker-compose build
+
 after building:
 Write in the console: sudo docker-compose up
 
