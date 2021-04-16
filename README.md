@@ -22,7 +22,9 @@
 
 Write in the console: 
 
-                     npm install npm run build
+                     npm install 
+                     
+                     npm run build
 
 4) Go to /../REPONAME/:
 
