@@ -61,6 +61,7 @@ a)
                       docker-compose run --rm web python manage.py migrate
  
  if all is well the database should connect and work together with django
+ 
  End
  
 
