@@ -1,0 +1,23 @@
+.response {
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.width {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+}
+.item_txt{
+}
+
+.btn_group {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+}

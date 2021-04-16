@@ -1,0 +1,37 @@
+.items_list {
+    display: flex;
+    width: 60%;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.create_div {
+    margin-bottom: 20px;
+    width: 120%;
+    text-align: right;
+}
+
+.items_txt {
+    display: flex;
+    justify-content: space-between;
+}
+
+.id {
+    width: 10%;
+}
+
+.email {
+    width: 45%;
+}
+
+.group {
+    width: 30%;
+}
+
+.actions {
+    width: 15%;
+}
+.txt{
+    font-family: -apple-system, serif;
+    font-weight: bold;
+}

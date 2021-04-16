@@ -1,0 +1,44 @@
+body {
+    margin: 70px;
+    background: rgb(54, 217, 182);
+    background: linear-gradient(90deg, rgba(54, 217, 182, 1) 0%,#00ffe8, rgba(0, 212, 255, 1) 100%);
+}
+
+h1, h2, h3, h4, h5, p, span, strike {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.links {
+    display: flex;
+    width: 100%;
+
+}
+
+.link {
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Cambria Math", serif;
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+}
+
+.links button:hover{
+    color: #ff3131;
+    text-decoration: none;
+}
+
+
+.app-route {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+
+}
