@@ -21,7 +21,8 @@
 3) Go to /../REPONAME/backend/frontend:
 
 Write in the console: npm install
-                      npm run build
+
+                    npm run build
 
 4) Go to /../REPONAME/:
 
@@ -34,6 +35,7 @@ Write in the console: sudo docker-compose up
 If all is well the server should go up on url "http://0.0.0.0:8000/"
 
 5) then we have to connect to the database and migrate
+
 a)
   to connect we use data from .env.db:
   user: user
